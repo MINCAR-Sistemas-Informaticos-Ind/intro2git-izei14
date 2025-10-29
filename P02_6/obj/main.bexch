@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Usuario\Desktop\2025-2026\Cuatrimestre1\Infor\Practicas\P02\P02_6\p02_6.gpr
+20250924155928 4f7880efba6e700ef237cf476de13270
+[BOUND OBJECT FILES]
+C:\Users\Usuario\Desktop\2025-2026\Cuatrimestre1\Infor\Practicas\P02\P02_6\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Usuario\Desktop\2025-2026\Cuatrimestre1\Infor\Practicas\P02\P02_6\obj\
+-LC:\Users\Usuario\Desktop\2025-2026\Cuatrimestre1\Infor\Practicas\P02\P02_6\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
